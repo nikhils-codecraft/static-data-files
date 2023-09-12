@@ -1,46 +1,46 @@
 [
   {
-    "key":"A",
+    "name":"A",
     "ascii":"65",
     "audio":"clap"
   },
   {
-    "key":"S",
+    "name":"S",
     "ascii":"83",
     "audio":"hihat"
   },
   {
-    "key":"D",
+    "name":"D",
     "ascii":"68",
     "audio":"kick"
   },
   {
-    "key":"F",
+    "name":"F",
     "ascii":"70",
     "audio":"openhat"
   },
   {
-    "key":"G",
+    "name":"G",
     "ascii":"71",
     "audio":"boom"
   },
   {
-    "key":"H",
+    "name":"H",
     "ascii":"72",
     "audio":"ride"
   },
   {
-    "key":"J",
+    "name":"J",
     "ascii":"74",
     "audio":"snare"
   },
   {
-    "key":"K",
+    "name":"K",
     "ascii":"75",
     "audio":"tom"
   },
   {
-    "key":"L",
+    "name":"L",
     "ascii":"76",
     "audio":"tink"
   }
